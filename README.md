@@ -1,5 +1,5 @@
 # Tugas-10
-Arkademy CRUD
+Naxema CRUD
 
 <img width="1262" alt="Screen Shot 2020-06-25 at 18 48 44" src="https://user-images.githubusercontent.com/67113526/85724756-b6ae4e80-b71e-11ea-997f-003d029eccbc.png">
 <img width="1258" alt="Screen Shot 2020-06-25 at 18 50 03" src="https://user-images.githubusercontent.com/67113526/85724763-b910a880-b71e-11ea-9def-980364ffd21f.png">
